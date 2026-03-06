@@ -28,4 +28,3 @@ vite-entries.json
 *.njsproj
 *.sln
 *.sw?
-_config.ts
