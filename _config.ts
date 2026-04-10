@@ -6,7 +6,7 @@ export const config = {
   subscribeLinks: {
     spotify: 'https://open.spotify.com/show/1jxyQf2s00F83r6uM3XPHx',
     apple: 'https://podcasts.apple.com/us/podcast/všecko-dobrý/id1815131682',
-    youtube: 'https://www.youtube.com/watch?v=FYQ_WjPMJEs&list=PLjQYOY9Hib1mJ1FfIEDQdiQYgjZI0UWq-',
+    youtube: 'https://www.youtube.com/@V%C5%A1eckoDOBR%C3%9D',
   },
   socialLinks: {
     instagram: 'https://www.instagram.com/vsecko_dobry/',
